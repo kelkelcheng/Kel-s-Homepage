@@ -25,8 +25,8 @@ experience:
   - title: Research Intern - Computer Vision and Perception
     company: ABB
     company_url: ''
-    company_logo: org-gc
-    location: Raleigh
+    company_logo: ABB_logo
+    location: Raleigh, United States
     date_start: '2020-05-01'
     date_end: '2020-08-01'
     description: Developed an adaptable deep-learning-based depth refinement method for infrared stereo cameras.
@@ -34,8 +34,8 @@ experience:
   - title: Intern
     company: KPMG
     company_url: ''
-    company_logo: org-x
-    location: Guangzhou
+    company_logo: KPMG_logo
+    location: Guangzhou, China
     date_start: '2013-05-01'
     date_end: '2013-08-01'
     description: Worked in the consulting group.
