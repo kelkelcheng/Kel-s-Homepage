@@ -1,6 +1,6 @@
 ---
 title: Kelvin Cheng
-role: PhD Candidate in Comptuer Science at NCSU
+role: PhD Candidate in Comptuer Science
 avatar_filename: kel_image.jfif
 bio: "Research interests: Computer Vision, Machine Learning, Low-Level Vision,
   Adversairal Attacks, Mixed Reality"
@@ -42,6 +42,6 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-Kelvin Cheng is a Ph.D. student of Computer Science at North Carolina State University. His research interests include 3D Computer Vision, Machine Learning, Adversarial Attacks, and Mixed Reality. He is a member of the iVMCL Lab (<https://research.ece.ncsu.edu/ivmcl/>) of NCSU.
+Kelvin Cheng is a Ph.D. student of Computer Science at North Carolina State University. His research interests include 3D Computer Vision, Machine Learning, Adversarial Attacks, and Mixed Reality. He is a member of the iVMCL Lab (<https://research.ece.ncsu.edu/ivmcl/>).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV - Kel.pdf" "newtab" >}}CV{{< /staticref >}}.
