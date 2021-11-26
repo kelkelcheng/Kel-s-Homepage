@@ -1,7 +1,7 @@
 ---
 title: Kelvin Cheng
 role: PhD Candidate in Comptuer Science
-avatar_filename: kel_image.jfif
+avatar_filename: avatar.jpg
 bio: "Research interests: Computer Vision, Machine Learning, Low-Level Vision,
   Adversairal Attacks, Mixed Reality"
 interests:
