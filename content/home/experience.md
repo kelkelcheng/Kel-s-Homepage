@@ -27,8 +27,8 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: Raleigh
-    date_start: '05/2020'
-    date_end: '08/2020'
+    date_start: '2020-05-01'
+    date_end: '2020-08-01'
     description: Developed an adaptable deep-learning-based depth refinement method for infrared stereo cameras.
 
   - title: Intern
@@ -36,8 +36,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Guangzhou
-    date_start: '05/2013'
-    date_end: '08/2013'
+    date_start: '2013-05-01'
+    date_end: '2013-08-01'
     description: Worked in the consulting group.
 
 design:
