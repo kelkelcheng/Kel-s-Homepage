@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 15
 
 title: Skills
 subtitle:
@@ -23,7 +23,7 @@ feature:
 - name: Pandas
 - name: Matlab
 - name: R
-- name: STATA
+- name: Stata
 - name: JavaScript
 - name: Java
 - name: WebGL
