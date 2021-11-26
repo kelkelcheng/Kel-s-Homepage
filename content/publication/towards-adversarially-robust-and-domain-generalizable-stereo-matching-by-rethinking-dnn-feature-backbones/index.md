@@ -32,7 +32,7 @@ abstract: Stereo matching has recently witnessed remarkable progress using Deep
 draft: false
 featured: true
 image:
-  filename: feature.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2021-11-26T23:29:28.151Z
