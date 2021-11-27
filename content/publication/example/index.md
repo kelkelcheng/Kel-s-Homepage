@@ -32,7 +32,7 @@ url_project: ""
 publication_short: In *ICCV*
 url_source: ""
 url_video: ""
-title: A neural network for detailed human depth estimation from a single image
+title: A Neural Network for Detailed Human Depth Estimation from a Single Image
 doi: ""
 featured: true
 tags: []
