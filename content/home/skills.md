@@ -1,13 +1,14 @@
 ---
 widget: featurette
 headless: true
-weight: 51
+weight: 70
 title: Skills
 subtitle: null
 feature:
   - name: Python
+  - name: C++
+  - name: C
   - name: PyTorch
-  - name: C++/C
   - name: CUDA
   - name: Pandas
   - name: Matlab
