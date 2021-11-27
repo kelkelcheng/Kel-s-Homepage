@@ -18,7 +18,7 @@ abstract: This work introduces a neural network for estimating the detailed 3D
   real depth cameras and qualitative examples on test images demonstrate the
   strength of the proposed method.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart
