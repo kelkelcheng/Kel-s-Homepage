@@ -142,6 +142,7 @@ search:
     show_logo: false
 map:
   provider: ''
+  engine: 2
   api_key: ''
   zoom: 15
 marketing:
