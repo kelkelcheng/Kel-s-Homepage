@@ -28,9 +28,9 @@ organizations:
     url: https://www.csc.ncsu.edu/
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: PhD in Computer Science (in progress)
       institution: North Carolina State University
-      year: 2023
+      year: ""
     - course: MSc in Computing Science
       institution: Simon Fraser University
       year: 2019
@@ -42,6 +42,6 @@ superuser: true
 user_groups: []
 highlight_name: true
 ---
-Kelvin Cheng is a Ph.D. student of Computer Science at North Carolina State University. His research interests include 3D Computer Vision, Machine Learning, Adversarial Attacks, and Mixed Reality. He is a member of the iVMCL Lab (<https://research.ece.ncsu.edu/ivmcl/>).
+Kelvin Cheng is a PhD student of Computer Science at North Carolina State University, co-supervised by [Dr. Tianfu Wu](https://tfwu.github.io/) and [Dr. Christopher Healey](https://www.csc2.ncsu.edu/faculty/healey/). His research interests include 3D Computer Vision, Machine Learning, Adversarial Attacks in Autonoumous Driving, and Mixed Reality. He is a member of the [iVMCL Lab](https://research.ece.ncsu.edu/ivmcl/)[](https://tfwu.github.io/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV - Kel.pdf" "newtab" >}}CV{{< /staticref >}}.
