@@ -1,5 +1,5 @@
 ---
-slides: example
+#slides: example
 url_pdf: ""
 summary: This project was done during the internship in ABB.
 url_video: ""
