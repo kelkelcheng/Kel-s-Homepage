@@ -3,6 +3,8 @@ title: Volumetric Reconstruction of Deformable Objects from RGB-D Images
 date: 2018-04-03T13:01:34.930Z
 draft: false
 featured: false
+tags:
+  - 3D Reconstruction
 image:
   filename: featured.png
   focal_point: Smart
