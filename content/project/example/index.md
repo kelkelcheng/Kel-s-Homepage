@@ -7,7 +7,8 @@ date: 2020-08-02T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Adaptable Deep Learning Based Depth Refinement for Infrared Stereo Cameras
-tags: []
+tags:
+  - Deep Learning
 links: []
 image:
   caption: ""
